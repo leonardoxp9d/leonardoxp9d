@@ -1,4 +1,4 @@
-## Olá! Eu sou o Leonardo Soares
+## Olá! Eu sou o Leonardo Soares, estudante de programação, atualmente focado no back-end
 
 - 🎓 Formado em Sistemas de Informação na Universidade Estácio de Sá
 - 🌱 Estudando JavaScript, Typescript, Postgres, Express, Node.js
