@@ -1,4 +1,4 @@
-## Olá! me chamo Leonardo Soares, sou estudante de programação, atualmente focado no back-end
+## Hi! my name is Leonardo Soares, I'm a programming student, currently focused on the backend 
 
 - 🌱 Studying JavaScript, Typescript, Postgres, Express, Node.js
 - 📚 Enhancing backend skills in Rocketseat Ignite
