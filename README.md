@@ -2,7 +2,6 @@
 
 - 🌱 Studying JavaScript, Typescript, Postgres, Express, Node.js
 - 📚 Enhancing backend skills in Rocketseat Ignite
-- 🎓 Graduated in Information Systems at Estácio de Sá University
 
 <div align="center">
   <a href="https://github.com/leonardoxp9d">
