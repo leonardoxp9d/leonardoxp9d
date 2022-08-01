@@ -1,7 +1,6 @@
 ## Hi! my name is Leonardo Soares, I'm a programming student, currently focused on the backend 
 
 - 🌱 Studying JavaScript, Typescript, Postgres, Express, Node.js
-- 📚 Enhancing backend skills in Rocketseat Ignite
 
 <div align="center">
   <a href="https://github.com/leonardoxp9d">
