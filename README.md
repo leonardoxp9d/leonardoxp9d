@@ -11,11 +11,12 @@
   
 ## Linguagens e ferramentas atuais:
 <div style="display: inline_block">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img align="center" alt="Javascript" height="31.5" width="41" src="https://user-images.githubusercontent.com/54649877/193427489-c58de148-3539-42f9-b0b7-078d889181a6.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="HTML" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="CSS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="center" alt="Javascript" width="41" height="31.5" src="https://user-images.githubusercontent.com/54649877/193427489-c58de148-3539-42f9-b0b7-078d889181a6.svg">
+  <img align="center" alt="React" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Git" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Github" width="45" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
   
 ## Contato:
@@ -24,4 +25,5 @@
   <a href=https://www.linkedin.com/in/leonardo-sl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<br/>
 <img  width="1200px" height="500px" src="https://user-images.githubusercontent.com/54649877/193426082-5f2743e8-181a-4eea-b882-ba7a4244f503.gif">
