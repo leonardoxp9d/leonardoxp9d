@@ -26,4 +26,4 @@
 </div>
 
 <br/>
-<img  width="1200px" height="500px" src="https://user-images.githubusercontent.com/54649877/193426082-5f2743e8-181a-4eea-b882-ba7a4244f503.gif">
+<img  width="1200px" height="450px" src="https://user-images.githubusercontent.com/54649877/193432761-0942a81c-d0dd-4ddc-87ff-dd9b13280da0.gif">
