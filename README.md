@@ -1,4 +1,4 @@
-# Oi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou [Leonardo Lima](https://www.linkedin.com/in/leonardo-sl/). 
+# Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o [Leonardo Lima](https://www.linkedin.com/in/leonardo-sl/). 
 
 - 📄 Bacharel em Sistemas de Informação na Universidade Estácio de Sá.
 - 📚 Atualmente aprimorando meus conhecimentos em Front-End.
