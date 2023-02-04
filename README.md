@@ -1,6 +1,7 @@
 # Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu nome é [Leonardo Lima](https://www.linkedin.com/in/leonardo-sl/), seja bem-vindo(a)!
 
-- 📄 Bacharel em Sistemas de Informação na Universidade Estácio de Sá.
+<!--
+- 📄 Bacharel em Sistemas de Informação na Universidade Estácio de Sá. -->
 - 📚 Atualmente aprimorando meus conhecimentos em Front-End.
 
 <div  align="center">
@@ -29,8 +30,10 @@
 ## Contato e redes:
 <div> 
   <a href="mailto:leonardo.soares.lim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!--
   <a href="https://www.linkedin.com/in/leonardo-sl/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+-->
 
 <br/>
 <img  width="1200px" height="450px" src="https://user-images.githubusercontent.com/54649877/193432761-0942a81c-d0dd-4ddc-87ff-dd9b13280da0.gif">
