@@ -1,4 +1,4 @@
-# Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu nome é [Leonardo Lima](https://www.linkedin.com/in/leonardo-sl/), seja bem-vindo(a)!
+# Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu nome é [Leonardo](<!--https://www.linkedin.com/in/leonardo-sl/-->), seja bem-vindo(a)!
 
 <!--
 - 📄 Bacharel em Sistemas de Informação na Universidade Estácio de Sá. -->
