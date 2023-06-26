@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoxp9d&layout=compact&langs_count=7&theme=dracula"/>
 </div> -->
   
-## Linguagens e ferramentas atuais:
+## Linguagens e ferramentas:
 <div style="display: inline_block">
   <img align="center" alt="HTML" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
